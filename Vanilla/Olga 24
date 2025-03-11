@@ -1,4 +1,5 @@
-<type name="CivilianSedan">
+</type>
+    <type name="CivilianSedan">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
