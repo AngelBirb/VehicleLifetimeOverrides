@@ -1,4 +1,5 @@
-<type name="OffroadHatchback">
+</type>
+    <type name="OffroadHatchback">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
