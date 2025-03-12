@@ -1,2 +1,1 @@
-ToDo -
-  Add ExpansionTypes vehicles
+
