@@ -1,5 +1,4 @@
 </type>
-	<!-- CARS -->
 	<type name="ExpansionUAZ">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
